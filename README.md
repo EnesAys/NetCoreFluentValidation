@@ -1,2 +1,2 @@
 # NetCoreFluentValidation
-Asp .Net Core 3.1 Fluent validation example
+Asp .Net Core 3 Fluent validation example
